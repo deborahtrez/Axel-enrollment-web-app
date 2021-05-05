@@ -1,0 +1,9 @@
+POST http://localhost:8000/courses/create http/1.1
+Content-Type: application/json 
+
+{
+    "programme": "* BSC (AGR ENG)",
+    "essentialSubjects": "Mathematics and Physics",
+    "relevantSubjects": "One best done of Chemistry, Agriculture, Economics, Geom. & Mech. Drawing, Geom. & Bld. Drawing",
+    "desirableSubjects": "General Paper and Computer Studies"
+}
