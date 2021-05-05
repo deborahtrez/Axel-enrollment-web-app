@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/axel-enrollment/static/css/main.c1954be9.chunk.css",
+    "main.js": "/axel-enrollment/static/js/main.cc814e10.chunk.js",
+    "main.js.map": "/axel-enrollment/static/js/main.cc814e10.chunk.js.map",
+    "runtime-main.js": "/axel-enrollment/static/js/runtime-main.6b2bdfea.js",
+    "runtime-main.js.map": "/axel-enrollment/static/js/runtime-main.6b2bdfea.js.map",
+    "static/js/2.2432a761.chunk.js": "/axel-enrollment/static/js/2.2432a761.chunk.js",
+    "static/js/2.2432a761.chunk.js.map": "/axel-enrollment/static/js/2.2432a761.chunk.js.map",
+    "index.html": "/axel-enrollment/index.html",
+    "precache-manifest.a6e7b8e1fad562c5964cdf1c55b5641d.js": "/axel-enrollment/precache-manifest.a6e7b8e1fad562c5964cdf1c55b5641d.js",
+    "service-worker.js": "/axel-enrollment/service-worker.js",
+    "static/css/main.c1954be9.chunk.css.map": "/axel-enrollment/static/css/main.c1954be9.chunk.css.map",
+    "static/js/2.2432a761.chunk.js.LICENSE.txt": "/axel-enrollment/static/js/2.2432a761.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b2bdfea.js",
+    "static/js/2.2432a761.chunk.js",
+    "static/css/main.c1954be9.chunk.css",
+    "static/js/main.cc814e10.chunk.js"
+  ]
+}
