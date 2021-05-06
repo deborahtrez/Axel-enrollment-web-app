@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/axel-enrollment/static/css/main.c1954be9.chunk.css",
-    "main.js": "/axel-enrollment/static/js/main.cc814e10.chunk.js",
-    "main.js.map": "/axel-enrollment/static/js/main.cc814e10.chunk.js.map",
-    "runtime-main.js": "/axel-enrollment/static/js/runtime-main.6b2bdfea.js",
-    "runtime-main.js.map": "/axel-enrollment/static/js/runtime-main.6b2bdfea.js.map",
-    "static/js/2.2432a761.chunk.js": "/axel-enrollment/static/js/2.2432a761.chunk.js",
-    "static/js/2.2432a761.chunk.js.map": "/axel-enrollment/static/js/2.2432a761.chunk.js.map",
-    "index.html": "/axel-enrollment/index.html",
-    "precache-manifest.a6e7b8e1fad562c5964cdf1c55b5641d.js": "/axel-enrollment/precache-manifest.a6e7b8e1fad562c5964cdf1c55b5641d.js",
-    "service-worker.js": "/axel-enrollment/service-worker.js",
-    "static/css/main.c1954be9.chunk.css.map": "/axel-enrollment/static/css/main.c1954be9.chunk.css.map",
-    "static/js/2.2432a761.chunk.js.LICENSE.txt": "/axel-enrollment/static/js/2.2432a761.chunk.js.LICENSE.txt"
+    "main.css": "/Axel-enrollment-web-app/static/css/main.c1954be9.chunk.css",
+    "main.js": "/Axel-enrollment-web-app/static/js/main.cc814e10.chunk.js",
+    "main.js.map": "/Axel-enrollment-web-app/static/js/main.cc814e10.chunk.js.map",
+    "runtime-main.js": "/Axel-enrollment-web-app/static/js/runtime-main.d5f37270.js",
+    "runtime-main.js.map": "/Axel-enrollment-web-app/static/js/runtime-main.d5f37270.js.map",
+    "static/js/2.65e06797.chunk.js": "/Axel-enrollment-web-app/static/js/2.65e06797.chunk.js",
+    "static/js/2.65e06797.chunk.js.map": "/Axel-enrollment-web-app/static/js/2.65e06797.chunk.js.map",
+    "index.html": "/Axel-enrollment-web-app/index.html",
+    "precache-manifest.388ad9a0421812ddd676f14236310ef5.js": "/Axel-enrollment-web-app/precache-manifest.388ad9a0421812ddd676f14236310ef5.js",
+    "service-worker.js": "/Axel-enrollment-web-app/service-worker.js",
+    "static/css/main.c1954be9.chunk.css.map": "/Axel-enrollment-web-app/static/css/main.c1954be9.chunk.css.map",
+    "static/js/2.65e06797.chunk.js.LICENSE.txt": "/Axel-enrollment-web-app/static/js/2.65e06797.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b2bdfea.js",
-    "static/js/2.2432a761.chunk.js",
+    "static/js/runtime-main.d5f37270.js",
+    "static/js/2.65e06797.chunk.js",
     "static/css/main.c1954be9.chunk.css",
     "static/js/main.cc814e10.chunk.js"
   ]
